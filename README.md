@@ -1,3 +1,1 @@
-# Git-Practice\
-
-hi! I'm hyeongU
+# Git-Practice
